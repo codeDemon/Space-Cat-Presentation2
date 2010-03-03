@@ -1,0 +1,4 @@
+C:\Documents and Settings\David\My Documents\Visual Studio 2008\Projects\Space Cats V1.2\Space Cats V1.2\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\codeDemon-Space-Cat-GameStateManager-b1126fc\codeDemon-Space-Cat-GameStateManager-b1126fc\Space Cats V1.2\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\David\Desktop\codeDemon-Space-Cat-Presentation-d1444e7\Space Cats V1.2\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\David\My Documents\Visual Studio 2008\Projects\Space Cats Presentation2\Space Cats V1.2\Content\obj\x86\Debug\ResolveAssemblyReference.cache
