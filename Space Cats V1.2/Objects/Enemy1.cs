@@ -49,8 +49,17 @@ namespace Space_Cats_V1._2
 
         public override void AIUpdate(GameTime gameTime)
         {
+
             Random gen = new Random();
             float time = (float)gameTime.TotalGameTime.TotalMilliseconds;
+
+            if (this.fireTime == 0)
+            {
+                this.fireCoolOff = MathHelper.Lerp(1000, 5000, (float)gen.NextDouble());
+                fireTime = time + this.fireCoolOff;
+            }
+            
+            
             if (time > fireTime)
             {
                 fireTime = time + this.fireCoolOff;
